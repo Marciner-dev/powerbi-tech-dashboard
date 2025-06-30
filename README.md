@@ -35,7 +35,7 @@ The goal is to demonstrate the ability to:
 
 | Section | Description |
 |--------|-------------|
-| ** **Performance Metrics**** | Average resolution time, tickets by status, team velocity |
+| **Performance Metrics** | Average resolution time, tickets by status, team velocity |
 | **CI/CD Metrics** | Deployment frequency, success rate |
 | **Code Quality Snapshot** | Number of bugs, security hotspots, technical debt |
 | **Time Filtering** | Custom filters for date ranges and project teams |
