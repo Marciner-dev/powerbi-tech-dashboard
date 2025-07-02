@@ -7,12 +7,12 @@ This project presents a simulated **Tech Metrics & Reporting Dashboard** built i
 I built a personal interactive Power BI dashboard using dummy XML data that mimics Jira exports.
 
 The dashboard simulates sprint reporting and includes:
-- Sprint velocity based on Release spent in hours 
-- Jira Issue resolution time with total hours spent
+- Sprint velocity based on release spent in hours 
+- Jira issue resolution time with total hours spent
 - Status by assignee and issue type 
-- Issue Status
+- Issue status
 - Resolved cases per month (Average)
-- Hours Target Achieved (%) 
+- Hours target achieved (%)  
 
 I'm using Power BI, DAX and a star schema data model to calculate custom KPIs and create dynamic visuals.
 
